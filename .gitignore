@@ -1,0 +1,14 @@
+/build/
+/dist/
+/evidence/
+/release/
+/.toolchain-cache/
+__pycache__/
+*.pyc
+*.ipa
+*.ips
+*.dylib
+*.dll
+*.lib
+*.exp
+*.o
